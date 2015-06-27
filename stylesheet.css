@@ -1,0 +1,75 @@
+/*default styles*/
+Html, body, h1, h2, h3, p, ol, ul, li, a {
+						Padding: 0;
+						Border: 0;
+						Margin: 0;
+						Font-size: 100%;
+						Font-family: inherit;
+						}
+
+body {
+	Padding: 20px	 20px	 20px 	20px;
+	Border: 0	0	0	0;
+	Margin: 0;
+	Font-size: 100%;
+	Font-family: inherit;
+	}
+
+H1 {
+	Margin: 10px	0	15px	0;
+	}
+H2 {
+	Margin: 10px	0	20px	0;
+	}
+H3 {
+	Margin: 15px	0	15px	0;
+	Border-bottom: 	1px	Solid	#cccccc
+	Padding-bottom:	3px		
+	}
+
+ul, ol {
+	Padding-left:	50px;		
+	}
+/*end default styles*/
+
+
+
+
+body{
+	background-image: url("http://wallpaperpassion.com/upload/17652/best-beach-wallpaper.jpg");
+	background-size:cover;
+	background-repeat: no-repeat;
+}
+h1{
+	color: #000000;
+	font-style: italic;
+	font-family: serif;
+	font-weight: bolder;
+	font-size: 40px;
+	
+	
+}
+h3{
+	color: #000000;
+	font-style: none;
+	font-family: sans-serif;
+	font-size: 25px;
+	text-align: center;
+}
+.challenge{
+	width: 400px;
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top:200px;
+}
+
+
+
+
+
+
+
+
+
+
